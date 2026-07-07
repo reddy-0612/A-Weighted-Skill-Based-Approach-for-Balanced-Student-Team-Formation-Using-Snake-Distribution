@@ -32,6 +32,7 @@ This ensures that every team contains a balanced mix of high-, medium-, and low-
 - Pandas
 - NumPy
 - Scikit-learn (MinMaxScaler)
+- Snake distribution algorithm
 
 ## Input
 The program accepts a CSV dataset containing student information, including:
