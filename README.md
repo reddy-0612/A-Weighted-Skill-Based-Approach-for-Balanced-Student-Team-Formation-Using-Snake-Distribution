@@ -44,8 +44,11 @@ The program accepts a CSV dataset containing student information, including:
 - Communication and presentation abilities
 
 ## Output
-The program generates the teams based on their capability score and prevents clustering of highly skilled students into a single team.
-
+The program generates an `Ideal_Balanced_Teams.csv` file containing:
+- Group ID
+- Student Name
+- Final Capability Score
+- CGPA
 
 ## Advantages
 - Fair and balanced student team formation
