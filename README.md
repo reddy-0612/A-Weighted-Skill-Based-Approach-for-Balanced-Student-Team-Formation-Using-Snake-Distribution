@@ -49,6 +49,7 @@ The program generates an `Ideal_Balanced_Teams.csv` file containing:
 - Student Name
 - Final Capability Score
 - CGPA
+  
 
 ## Advantages
 - Fair and balanced student team formation
